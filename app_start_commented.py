@@ -93,3 +93,4 @@ output_sentence = " ".join(translated_words)
 if output_sentence:
     st.header("Your Emoji Sentence:")
     st.write(output_sentence)
+
