@@ -38,10 +38,10 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "fire": "🔥",
-    "super happy" "☺️",
-    "poopy" "💩",
-    "alien" "👽",
-    "banana" "🍌"
+    "super happy":"☺️",
+    "poopy": "💩",
+    "alien": "👽",
+    "banana": "🍌"
     # Students can add more!
 }
 
