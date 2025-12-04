@@ -37,7 +37,11 @@ EMOJI_DICT = {
     "coding": "💻",
     "win": "🏆",
     "python": "🐍",
-    "fire": "🔥"
+    "fire": "🔥",
+    "super happy" "☺️",
+    "poopy" "💩",
+    "alien" "👽",
+    "banana" "🍌"
     # Students can add more!
 }
 
