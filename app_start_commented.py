@@ -76,7 +76,7 @@ EMOJI_DICT = {
     "fire": "🔥",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-
+"soccer": "⚽️",
 
 
 }
@@ -148,9 +148,9 @@ if output_sentence:
 #
 # Remove the # from ONE of them and run your app!
 #
-st.balloons()
+# st.balloons()
 #
-# st.snow()
+# st.snow(
 #
 # Which one do you like better? 🎈❄️
 
