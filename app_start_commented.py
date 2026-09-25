@@ -154,17 +154,6 @@ if output_sentence:
 #
 # Which one do you like better? 🎈❄️
 
-# First run: pip install streamlit-extras
-from streamlit_extras.let_it_rain import rain
-
-# Make it rain dollar signs
-rain(
-    emoji="💰",
-    font_size=54,
-    falling_speed=5,
-    animation_length="infinite", # or a number like 5 for seconds
-)
-
 
 # ============================================================
 # 🏆 BONUS DESIGN CHALLENGE
