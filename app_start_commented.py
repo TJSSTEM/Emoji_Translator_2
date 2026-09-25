@@ -4,10 +4,6 @@
 # ============================================================
 
 import streamlit as st
-from streamlit_confetti import confetti
-
-# Triggers a full-screen confetti blast
-confetti()
 
 
 # ============================================================
