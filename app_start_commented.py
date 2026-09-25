@@ -65,7 +65,7 @@ with st.expander("👉 How to use this app"):
 
 EMOJI_DICT = {
     "soccer": "⚽️",
-    "happy": "😊"
+    "happy": "😊",
     "sad": "😢",
     "cat": "🐱",
     "dog": "🐶",
